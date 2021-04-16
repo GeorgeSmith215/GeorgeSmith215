@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GeorgeSmith215
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning Vue
-//- 💞️ I’m looking to collaborate on ...
-//- 📫 How to reach me ...
+- 👋 Hi, I’m @GeorgeSmith215   
+- 👀 I’m interested in frontend   
+- 🌱 I’m currently learning Vue   
+//- 💞️ I’m looking to collaborate on ...   
+//- 📫 How to reach me ...   
 
 <!---
 GeorgeSmith215/GeorgeSmith215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
